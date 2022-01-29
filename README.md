@@ -1,4 +1,4 @@
 # test_05
-- [] todo
-  - [] todo 
-    - [] todo
+- [ ] todo
+  - [x] todo 
+    - [ ] todo
